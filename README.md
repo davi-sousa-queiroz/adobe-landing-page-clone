@@ -38,7 +38,7 @@ https://www.adobe.com/br/
 
 ## 📸 Preview
 
-![Preview](images/screenshot.png)
+![Preview](images/adobe-clone-website-screenshot.png)
 
 
 ---
