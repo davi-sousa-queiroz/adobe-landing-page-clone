@@ -38,7 +38,7 @@ https://www.adobe.com/br/
 
 ## 📸 Preview
 
-Preview
+![Preview](images/screenshot.png)
 
 
 ---
