@@ -9,7 +9,7 @@ Instead of following a tutorial step-by-step, I worked through recreating a real
 ---
 
 ## 🚀 Live Demo
-https://yourusername.github.io/repo-name/
+davi-sousa-queiroz.github.io/adobe-landing-page-clone/
 
 ---
 
